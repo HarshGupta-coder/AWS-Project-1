@@ -8,3 +8,8 @@ AWS Services Used:
 3. Autoscaling :- Automation for VM scaling
 4. S3 :- Shared Storage
 5. Route 53 :- Private DNS Service
+6. IAM :- To access aws using aws cli
+7. ACM :- To provide global access connect with godaddy domain address
+
+
+
